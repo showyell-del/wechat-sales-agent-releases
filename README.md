@@ -2,6 +2,10 @@
 
 一款面向 Apple Silicon Mac 的微信聊天分析工具。连接并同步微信后，你可以用自然语言筛选客户、了解人物与关系、梳理话题和待办，并在结果中查看对应的聊天证据。
 
+## 下载安装
+
+[下载 Apple Silicon 测试安装包](https://github.com/showyell-del/wechat-sales-agent-releases/releases/download/v0.1.2-test/Agent-.dmg) · [查看发布页面](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.2-test)
+
 ## 功能
 
 - **自然语言分析**：输入问题，查找相关对话，支持连续追问。
