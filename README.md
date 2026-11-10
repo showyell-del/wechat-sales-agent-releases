@@ -4,11 +4,11 @@
 
 ## 下载安装
 
-[下载最新版 v0.1.3-test（独立运行修复）](https://github.com/showyell-del/wechat-sales-agent-releases/releases/download/v0.1.3-test/WeChatSalesAgent-v0.1.3-test.dmg) · [查看发布页面](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.3-test)
+[下载最新版 v0.1.4-test（授权误报修复）](https://github.com/showyell-del/wechat-sales-agent-releases/releases/download/v0.1.4-test/WeChatSalesAgent-v0.1.4-test.dmg) · [查看发布页面](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.4-test)
 
-历史版本：[v0.1.2-test](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.2-test)。
+历史版本：[v0.1.3-test](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.3-test)、[v0.1.2-test](https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.2-test)。
 
-v0.1.3-test 修复：全新安装的空白配置可独立完成首次取钥、微信同步与语料发布；修正语料发布顺序，以及新旧语料共用消息证据时的外键错误。该版本为 ad-hoc 签名、未经 Apple 公证，且尚未在另一台 Mac 完成全新安装验证，仅供内测，详见发布页面。
+v0.1.4-test 修复：把断网等瞬时失败与真正的授权到期区分开，加入 30 秒超时与重试、72 小时离线宽限、10 分钟轮询，网络失败不再直接退出应用；服务端拆分「码无效 / 已到期」，并按北京时间自然日对齐新发码的到期时刻。该版本为 ad-hoc 签名、未经 Apple 公证，且尚未在另一台 Mac 完成全新安装验证，仅供内测，详见发布页面。
 
 ## 功能
 
