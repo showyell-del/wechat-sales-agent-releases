@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "filename": "WeChatSalesAgent-MVP-macOS-arm64.dmg",
+  "sha256": "6b2b24e912a8df2bceb944a570e04f21b03f30435b13b547f83bee2a405dbeef",
+  "size": 103878167,
+  "tag": "v0.1.5-test",
+  "channel": "test",
+  "release": "https://github.com/showyell-del/wechat-sales-agent-releases/releases/tag/v0.1.5-test",
+  "publishedAt": "2026-11-10T16:00:08.712109+00:00",
+  "notes": "固定名称安装包与版本清单；客户端通过 api.github.com Contents API 读取本清单，避免访问下载域名。"
+}
